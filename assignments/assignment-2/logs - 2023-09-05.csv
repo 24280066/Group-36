@@ -1,0 +1,22 @@
+user_id	content_id	action	timestamp	device	region	session_id
+120	1006	play	05/09/2023 0:58	mobile	EU	s9980
+103	1003	skip	05/09/2023 21:34	desktop	US	s7713
+142	1009	forward	05/09/2023 21:00	tablet	APAC	s9252
+169	1008	play	05/09/2023 21:27	mobile	EU	s3587
+120	1010	pause	05/09/2023 8:20	desktop	APAC	s9682
+122	1003	forward	05/09/2023 10:02	desktop	US	s3474
+105	1009	play	05/09/2023 1:25	desktop	US	s3958
+138	1006	play	05/09/2023 9:36	mobile	APAC	s9792
+150	1004	forward	05/09/2023 0:27	tablet	EU	s2860
+147	1001	skip	05/09/2023 17:37	mobile	US	s3733
+141	1010	pause	05/09/2023 8:49	tablet	US	s4968
+124	1000	forward	05/09/2023 4:57	tablet	US	s8562
+129	1001	skip	05/09/2023 3:44	tablet	APAC	s4125
+177	1006	play	05/09/2023 5:13	tablet	EU	s3931
+156	1001	play	05/09/2023 19:27	mobile	APAC	s9184
+163	1009	skip	05/09/2023 5:29	tablet	US	s6192
+193	1010	skip	05/09/2023 9:28	tablet	EU	s5077
+139	1003	pause	05/09/2023 11:34	mobile	APAC	s7337
+106	1004	pause	05/09/2023 6:07	desktop	APAC	s9384
+118	1000	skip	05/09/2023 8:33	mobile	EU	s9253
+104	1008	play	05/09/2023 13:43	desktop	APAC	s8941
